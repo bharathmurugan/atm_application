@@ -328,41 +328,45 @@ gunicorn
 If your application uses additional Python packages, add them to this file as well.
 
 ---
-
-# 📸 Screenshots
-
-Add screenshots of your application here.
+## 📸 Screenshots
 
 ### 🔐 Login Page
 
-```markdown
-![ATM Login](screenshots/login.png)
-```
+<p align="center">
+  <img src="./screenshots/login.png" width="850" alt="ATM Login Page"/>
+</p>
 
-### 🏧 ATM Dashboard
+---
 
-```markdown
-![ATM Dashboard](screenshots/dashboard.png)
-```
+### 🏧 Dashboard
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="850" alt="ATM Dashboard"/>
+</p>
+
+---
 
 ### 💰 Balance
 
-```markdown
-![Balance](screenshots/balance.png)
-```
+<p align="center">
+  <img src="./screenshots/balance.png" width="850" alt="Balance Page"/>
+</p>
+
+---
 
 ### 💵 Deposit
 
-```markdown
-![Deposit](screenshots/deposit.png)
-```
+<p align="center">
+  <img src="./screenshots/deposit.png" width="850" alt="Deposit Page"/>
+</p>
 
-### 💸 Withdrawal
+---
 
-```markdown
-![Withdrawal](screenshots/withdraw.png)
-```
+### 💸 Withdraw
 
+<p align="center">
+  <img src="./screenshots/withdraw.png" width="850" alt="Withdraw Page"/>
+</p>
 ---
 
 # 🎯 Learning Objectives
